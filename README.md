@@ -1,1 +1,1 @@
-# UVM_Semestre_2
+# UVM Semester 2 - Data Science & AI
