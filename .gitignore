@@ -1,1 +1,13 @@
 *.exe
+# Archivos compilados de C/C++
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Carpetas ocultas de configuracion 
+.vscode/
+
+# Archivos temporales de sistema
+.DS_Store
